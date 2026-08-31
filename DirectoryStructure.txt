@@ -1,0 +1,109 @@
+Proposed core-java-practice structure
+
+core-java-practice/
+│
+├── src/
+│   │
+│   ├── basics/
+│   │   ├── inputoutput/
+│   │   ├── datatypes/
+│   │   ├── operators/
+│   │   ├── conditionals/
+│   │   ├── loops/
+│   │   ├── arrays/
+│   │   ├── methods/
+│   │   └── typecasting/
+│   │
+│   ├── strings/
+│   │   ├── StringBasic.java
+│   │   ├── StringMethods.java
+│   │   ├── StringBuilderReference.java
+│   │   └── StringBufferReference.java
+│   │
+│   ├── oop/
+│   │   ├── classesobjects/
+│   │   ├── constructors/
+│   │   ├── encapsulation/
+│   │   ├── inheritance/
+│   │   ├── polymorphism/
+│   │   ├── abstraction/
+│   │   ├── interfaces/
+│   │   └── composition/
+│   │
+│   ├── exceptionhandling/
+│   │   ├── trycatch/
+│   │   ├── multiplecatch/
+│   │   ├── finally/
+│   │   ├── throwthrows/
+│   │   ├── customexceptions/
+│   │   └── checkedunchecked/
+│   │
+│   ├── collections/
+│   │   ├── list/
+│   │   ├── set/
+│   │   ├── map/
+│   │   ├── queue/
+│   │   ├── deque/
+│   │   ├── iterators/
+│   │   └── comparablecomparator/
+│   │
+│   ├── generics/
+│   │
+│   ├── wrapperclasses/
+│   │
+│   ├── enums/
+│   │
+│   ├── java8/
+│   │   ├── lambda/
+│   │   ├── functionalinterfaces/
+│   │   ├── methodreferences/
+│   │   ├── optional/
+│   │   └── defaultmethods/
+│   │
+│   ├── streams/
+│   │   ├── StreamBasic.java
+│   │   ├── FilterAndMap.java
+│   │   ├── intermediate/
+│   │   ├── terminal/
+│   │   ├── collectors/
+│   │   └── primitiveStreams/
+│   │
+│   ├── dateandtime/
+│   │
+│   ├── regex/
+│   │
+│   ├── io/
+│   │   ├── filehandling/
+│   │   ├── byteStreams/
+│   │   ├── characterStreams/
+│   │   └── serialization/
+│   │
+│   ├── concurrency/
+│   │   ├── threadbasics/
+│   │   ├── runnable/
+│   │   ├── callable/
+│   │   ├── synchronization/
+│   │   ├── locks/
+│   │   ├── executors/
+│   │   ├── concurrentcollections/
+│   │   └── atomic/
+│   │
+│   ├── references/
+│   │   ├── strong/
+│   │   ├── weak/
+│   │   ├── soft/
+│   │   └── phantom/
+│   │
+│   ├── jvm/
+│   │   ├── memory/
+│   │   ├── garbagecollection/
+│   │   └── classloading/
+│   │
+│   └── designpatterns/
+│       ├── singleton/
+│       ├── factory/
+│       ├── builder/
+│       └── strategy/
+│
+├── .gitignore
+└── README.md

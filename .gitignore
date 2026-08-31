@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# Build output
+target/
+bin/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
